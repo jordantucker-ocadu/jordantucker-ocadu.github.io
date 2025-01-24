@@ -7,7 +7,7 @@ function setup(){
 }
 
 function draw(){
-    background('#AA44FF') //automatic semicolon insertion
+    background('#F6D99E') //automatic semicolon insertion
     rect(x,y,10,10);
     x = x + 1;
     x = x % 700 // modulo operator
